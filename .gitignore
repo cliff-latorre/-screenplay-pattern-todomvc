@@ -1,0 +1,11 @@
+# IntelliJ project files
+.idea
+*.iml
+*.ipr
+*.iws
+
+### Maven template
+target/
+.DS_Store
+.gradle
+build
